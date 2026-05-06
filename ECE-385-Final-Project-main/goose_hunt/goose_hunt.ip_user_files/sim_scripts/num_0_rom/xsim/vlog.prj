@@ -1,0 +1,6 @@
+verilog xil_defaultlib  \
+"../../../../goose_hunt.gen/sources_1/ip/num_0_rom/sim/num_0_rom.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+nosort

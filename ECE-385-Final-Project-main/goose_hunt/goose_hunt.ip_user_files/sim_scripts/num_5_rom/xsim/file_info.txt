@@ -1,0 +1,2 @@
+num_5_rom.v,verilog,xil_defaultlib,../../../../goose_hunt.gen/sources_1/ip/num_5_rom/sim/num_5_rom.v,
+glbl.v,Verilog,xil_defaultlib,glbl.v

@@ -1,0 +1,2 @@
+dog_walk_second_rom.v,verilog,xil_defaultlib,../../../../goose_hunt.gen/sources_1/ip/dog_walk_second_rom/sim/dog_walk_second_rom.v,
+glbl.v,Verilog,xil_defaultlib,glbl.v

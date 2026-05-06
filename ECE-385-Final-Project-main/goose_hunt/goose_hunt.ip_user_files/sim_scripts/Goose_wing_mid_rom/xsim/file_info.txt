@@ -1,0 +1,2 @@
+Goose_wing_mid_rom.v,verilog,xil_defaultlib,../../../../goose_hunt.gen/sources_1/ip/Goose_wing_mid_rom/sim/Goose_wing_mid_rom.v,
+glbl.v,Verilog,xil_defaultlib,glbl.v

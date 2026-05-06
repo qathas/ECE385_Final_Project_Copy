@@ -1,0 +1,2 @@
+dog_excited_rom.v,verilog,xil_defaultlib,../../../../goose_hunt.gen/sources_1/ip/dog_excited_rom/sim/dog_excited_rom.v,
+glbl.v,Verilog,xil_defaultlib,glbl.v

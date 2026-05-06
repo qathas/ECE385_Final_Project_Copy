@@ -1,0 +1,2 @@
+Goose_fly_away1_rom.v,verilog,xil_defaultlib,../../../../goose_hunt.gen/sources_1/ip/Goose_fly_away1_rom/sim/Goose_fly_away1_rom.v,
+glbl.v,Verilog,xil_defaultlib,glbl.v

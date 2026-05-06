@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.2 (64-bit)
+# SW Build 3671981 on Fri Oct 14 05:00:03 MDT 2022
+# IP Build 3669848 on Fri Oct 14 08:30:02 MDT 2022
+# Start of session at: Thu May  2 10:30:59 2024
+# Process ID: 26044
+# Current directory: C:/385_Vivado_Projects/Final_Project/ECE-385-Final-Project/goose_hunt/goose_hunt.runs/dog_walk_third_rom_synth_1
+# Command line: vivado.exe -log dog_walk_third_rom.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source dog_walk_third_rom.tcl
+# Log file: C:/385_Vivado_Projects/Final_Project/ECE-385-Final-Project/goose_hunt/goose_hunt.runs/dog_walk_third_rom_synth_1/dog_walk_third_rom.vds
+# Journal file: C:/385_Vivado_Projects/Final_Project/ECE-385-Final-Project/goose_hunt/goose_hunt.runs/dog_walk_third_rom_synth_1\vivado.jou
+# Running On: DESKTOP-0EC8M3E, OS: Windows, CPU Frequency: 2592 MHz, CPU Physical cores: 6, Host memory: 34093 MB
+#-----------------------------------------------------------
+source dog_walk_third_rom.tcl -notrace

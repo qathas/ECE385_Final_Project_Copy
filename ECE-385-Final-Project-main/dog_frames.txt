@@ -1,0 +1,55 @@
+1. third
+2. first
+3. second
+4. fourth
+5. third
+6. first
+7. second
+8. fourth
+9. third
+10. first
+11. second
+12. fourth
+13. third
+14. first
+15. second
+16. fourth
+17.third. set motion_next to 0
+------stop motion------
+18.third
+19.sniff
+20.third
+21.sniff
+22.third
+23.sniff set_motion_next to 1
+-----resume motion----
+24. third
+25. first
+26. second
+27. fourth
+28. third
+29. first
+30. second
+31. fourth
+32. third
+33. first
+34. second
+35. fourth
+36. third
+37. first
+38. second
+39. fourth
+40.third 
+---stop motion---
+41.third
+42.sniff
+43.third
+44.sniff
+45.third
+46.sniff
+--resume motion---
+47. third
+--stop motion---
+48. excited
+
+

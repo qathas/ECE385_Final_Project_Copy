@@ -1,0 +1,6 @@
+verilog xil_defaultlib  \
+"../../../../goose_hunt.gen/sources_1/ip/Goose_fly_away3/sim/Goose_fly_away3.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+nosort

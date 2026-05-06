@@ -1,0 +1,2 @@
+dog_laugh1_rom.v,verilog,xil_defaultlib,../../../../goose_hunt.gen/sources_1/ip/dog_laugh1_rom/sim/dog_laugh1_rom.v,
+glbl.v,Verilog,xil_defaultlib,glbl.v
